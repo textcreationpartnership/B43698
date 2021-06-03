@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The present state and condition of the clergy, and Church of Scotland</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43698</idno><idno type="EEBO-CITATION">625106344</idno>
+  <idno type="VID">211313</idno>
+  <idno type="EEBO-PROQUEST">2248531115</idno>
+  
+            <idno type="OCLC"> 625106344</idno>
+            <idno type="OCLC">ocn 625106344</idno>
+            <idno type="STC">Wing P3250A</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43698)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211313)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2970:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The present state and condition of the clergy, and Church of Scotland</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Randal Taylor near Stationers-Hall,,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689 [i.e. 1690].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated at end: Jan. 23d, 1689/90.</note>
+                  <note>Imperfect: stained with slight loss of text.</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of Scotland --  Clergy --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:211313:1"/>
+            <pb n="1" facs="tcp:211313:2"/>
+            <head>The present STATE and Condition OF THE Clergy, and Church of Scotland.</head>
+            <head type="sub">In a LETTER from a Friend on the <hi>Borders.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN your last, you told me, That a fuller and more particular Account of the Condition of the Episcopal Clergy in <hi>Scotland,</hi> would not only be very acceptable to some Worthy Persons, but might also be instrumental towards the Relief of the sad and deplorable Condition they are in. Upon this Consideration I am now mov'd to write what I know, upon good Grounds, in that matter; hoping that a modest Relation of their Sufferings, may prove a kind and charita<g ref="char:EOLhyphen"/>ble Intercession for them; and that others, when they know as much as I do, in the Point, will com<g ref="char:EOLhyphen"/>passionate them, as much as my self; who hear their Cries and Complaints, and am an Eye-witness of their Poverty and Distress, almost every day.</p>
+            <p>The Clergy of <hi>Scotland</hi> were never in so flourishing a Condition since the Reformation, as they have been of late. The long Peace of near Thirty Years, since the Restauration, has been well imployed by them: It has been a quiet season, and Learning has grown, and improv'd in it; Orthodox English Writers has been brought, Libraries, publick and private, furnish'd with good Books; the Principles of the English Church carefully examin'd, and their Judgment so convin'd of the Excellency and Necessity of our Discipline and Order, that they generally love and admire our Constitution; and heartily pray, that the like might be setled amongst them, which might prevent the Supiness and Inde<g ref="char:EOLhyphen"/>votion, <hi>&amp;c.</hi> which are too visible in that Nation. And herein, the Care of all their Universities is very commendable, wherein the young Clergy has been season'd with Orthodox Principles; particu<g ref="char:EOLhyphen"/>larly, <hi>Glasquo,</hi> where an Eminent Professor did, on all occasions, magnifie the Constitution of the Church of <hi>England,</hi> to the <hi>Scotch</hi> as well as <hi>English</hi> Scholars; and to make his Sentiments more pub<g ref="char:EOLhyphen"/>lick, he printed a Book at that Place, containing some great and distinguishing Doctrines of the <hi>English</hi> Church. By the Care of the Universities, all the Churches in the Kingdom, which are said to be about 950, were fill'd with Achademicks; who, for their Number, for their quick<g ref="char:EOLhyphen"/>ness of Apprehension, readiness of Expression, <hi>&amp;c.</hi> may not be thought inferiour to so many of the English Clergy, taken in gross. What their Behaviour was at the Insurrection at <hi>Bothwill Bridge,</hi> and since, every one knows. They generally complain'd of Violation of Justice, under the late Administra<g ref="char:EOLhyphen"/>tion; and though some were too Accessary, yet others suffer'd for their Opposition; so that the whole cannot be culpable, for the Miscarriages of a sew. There was an Address of their Bishop, which is in the Gazetts, which very much incens'd the common inferiour People against them; but consider<g ref="char:EOLhyphen"/>ing the Proclamations which were published by all Magistrates, the Laws in force, and their other Ob<g ref="char:EOLhyphen"/>ligations, at that time, there might be some charitable Allowances for that Action; and seeing they are willing to submit to the present Government, the power of those in Authority, might be pleas'd to cover them from the Rage and Insolence of the Rabble.</p>
+            <p>Upon the late great Revolution, at the coming of that invincible Prince to assert Out-Laws and Li<g ref="char:EOLhyphen"/>berties, these Episcopal Clergy found themselves opposed by Three sorts of Adversaries, differing amongst themselves, yet united in their Endeavours to extirpate them; <hi>viz.</hi> The old <hi>Presbyterians,</hi> who accepted the Indulgence under King <hi>James,</hi> commonly called, <hi>The Indulg'd Men;</hi> the <hi>Cameronians</hi> (from one <hi>Cameron,</hi> a late Preacher amongst them, about <hi>Bothwill-Bridge</hi> Rising) and the <hi>Mountaineers</hi> or <hi>Hill<g ref="char:EOLhyphen"/>men,</hi> who are like the old <hi>Anabaptists</hi> of <hi>Germany,</hi> not to be rank'd under any regular Principles; The first are most moderate, but the two last run to the heighth of enrag'd Violence, and are not check'd or restrain'd by the other. In the <hi>S. W.</hi> and <hi>W.</hi> Parts of the Kingdom, (where the <hi>Cameronians</hi> are most numerous) the regular Clergy were silenc'd, hinder'd from going their Churches, and abus'd in most barbarous manner, before any thing was done in Parliament against them: The way was, to send to the Minister, by any (unknown) hand, an Order to desist from Preaching at his Peril; and if he did not out of fear of his Life, obey it, then with Arms and Violence, they opposed his entring his Church, and sometimes put some of their own Principles or Leaders into the Pulpit. But the Fury of their Enemies shew'd it self so much, as after the Abolition of Episcopacy by sound of Trumpet; for when they were thrown down by the Government, then the meanest of the People insolently trampled upon them. I shall not reflect upon the publick Proceedings, but only tell you Matter of Fact, as I have were depriv'd by Order; and at that time, those that would pray as they were commanded, and de<g ref="char:EOLhyphen"/>clare their satisfaction in what was done, were allow'd to continue in their Places; only the Ejected complain'd, not so much of their being depriv'd, as that all the Profits of the year were denyed them, which they were in possession of till after <hi>Whitsontide;</hi> nay, till <hi>July</hi> or <hi>August,</hi> which they say is con<g ref="char:EOLhyphen"/>trary to the Laws of <hi>Scotland;</hi> nay, some, if not all of them, were unable to get up their Arrears. In some place the People being unwilling to pay them; and where they were willing, the Parishoners dare
+<pb n="2" facs="tcp:211313:3"/>not, for fear they should be demanded, for publick Occasions, as the last years Revenues are, Collectors being appointed (as they hear) to gather them for paying the Army. But those that were turn'd out by the <hi>Cameronians</hi> and <hi>Mountaineers,</hi> were the greatest Sufferers of any; for they pull'd them violently out of their Manses (as their Parsonage houses are call'd) threw out their Goods and Stuff, burnt or tore their Books, and forc'd their Wives and Children, where they had any, to beg their Bread in the Country, glad they escap'd with their Lives. Their Gowns mov'd their Indignation very much, and where they found them, they tore them to pieces; one had his cut as he was pleading his Cause before his Judges, and another had his put upon him, and carryed in it to the <hi>Market-Cross,</hi> and there had it torn in a 1000 pieces; some insulting over the poor man, and some pitying his Condition. And those that were thus turn'd out and abused by the People, without regular Proceedings, were near one half of the whole Clergy, as I am told; especially, in the <hi>W.</hi> and <hi>North,</hi> and remoter Parts: 'Tis beyond the Power of Words to express their Misery, to that degree as they suffer it.</p>
+            <p>A good while ago, a Minister, who has the Reputation of a very sober and prudent Man, was Assaulted in his House in the Night time; and getting out, was forced to fly almost naked to a worthy Gentleman's House to save his Life: The Gentleman was Sir <hi>J. D.</hi> whom I heard relate the story. Since that, fre<g ref="char:EOLhyphen"/>quent Assaults and Violences have been committed upon very many. One that Married a Relation of a Bishop, was set upon in his House, he dragg'd out into the Ditches, his Books burnt or spoiled, and his poor Wise (at that time in Child-bed) miserably abused. Another, I am told (tho' I cannot affirm it for certain who did it, tho' he was threatned by his Neighbours) was found dead, wounded in several places, and Excrements upon his Face, a most inhumane unchristian Barbarity. Many came flying into <hi>England:</hi> I have relieved several, and here were with me, two within this week, who confirm what I write, and assure me of many like Instances, which are better forgot, than mentioned: Their Places were about 50 or 60 <hi>l. per Annum,</hi> as most are in <hi>Scotland;</hi> they have Wives and 5 or 6 small Children each; debts in their Parishes to above 100 <hi>l.</hi> each, besides Houshold Stuff; yet are forc'd to fly, and seek for Com<g ref="char:EOLhyphen"/>passion in another Nation. Some has Petition'd for Protection for some time, that their flight may not be in the Winter; but if the Magistrates had allowed it, the Rabble would not.</p>
+            <p>That which is most Remarkable, and indeed most Calamitous is, that those that have complyed and read the Proclamation, as one of these I mention had done; yet they had no better usage, than those that did not. For some of the <hi>Cameronians</hi> or <hi>Mountaineers,</hi> sent them a discharge, as not fit to Preach: So they have them at this Dilemma; if they comply not, they are Seditious; and if they do, they are Hy<g ref="char:EOLhyphen"/>pocrites; and so they must unavoidably be undone. This is general, and the reason is, because they have Episcopal Orders and Institution; and must make room for the <hi>Presbyterians,</hi> when they have a number able to sill all their Churches; for at present (except at their Market-Towns) they are at a great want. In some Counties in the <hi>S. W.</hi> some Churches have had no Divine-service in them, for above a Year; many not for 6, 5, 4, 3 Months. And of late, since some care has been had of them, one has 4, 5, 6, or 7 Pa<g ref="char:EOLhyphen"/>rishes to look after, which are supplied by turns. The Ministers they allow, are either the old ejected <hi>Presbyterians</hi> in 60, or some from <hi>Ireland, Holland, &amp;c.</hi> of the same Principles, who Preach publickly, while the Episcopal Divines dare not appear two together, scarce alone, in many places; and are reviled by the ordinary People; but yet the Nobility, Gentry, and the better sort of the commonalty, have both a great respect for their Persons and Functions, and extreamly commiserate their Condition. I hear that the Bi<g ref="char:EOLhyphen"/>shops, and the principal Clergy of <hi>Edenburg,</hi> abscond; and such is their Affection to the Church of <hi>England,</hi> that to comfort their Souls in so sad an Affliction, as they are in; they receiv'd the Blessed Sacrament according to the <hi>English</hi> Liturgy, not long since. And as they hope Prayers are offered to God for them by their Brethren and others of our Church, that some means may be found for their Relief, in his Good Time and Way; so, I know, 'tis part of their Devotions at the Throne of Grace, that God would preserve our Constitution entire, and not suffer our sins to be our ruine, nor the designs of our Enemies, to take effect against us. I should be tedious, should I tell you, what I hear for certain; they talk and preach with Relation to our Church-Government, that God would pull down that Anti-Christian Hierarchy that is set up amongst us, and restore us to the like Glorious Liberty, <hi>&amp;c.</hi> But supposing these Expressions to be the effects of their Zeal, rather than any way encouraged by Authority, I shall look on them as insignificant: Only I could wish, that there were no Features in the present face of things, that encourag'd such sad Prognostications; they can<g ref="char:EOLhyphen"/>not but observe how some Favourers of their Cause amongst us, qualify themselves by communicating with us; and ever after, frequent (as they have always done) separate Congregations. But these things are above my reach, and I shall not meddle with them. The Clergy that fly into <hi>England,</hi> are very kindly receiv'd by the Clergy here; and where they can get a small Place, they conform exactly in all particulars; <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 'tis not want of Affection to the present Establishment, that makes them so much hated and revil'd, by <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> inferiour sort, the beasts of the People, in their own Countrey.</p>
+            <p>Thus I haven give you a thousand I hope, a faithful Account of what I am assur'd of concerning the Episcopal Clergy, in the Neighbouring Kingdom: If any desire father satisfaction in so deplo<g ref="char:EOLhyphen"/>rable a Matter; those that are so unhappy, as to bear a Part in the sufferings, may be best able to Relate their Condition: For I have that Opinion of their Learning, Piety, and Worth, that as their Troubles for Conscience sake, are not unlike those of the <hi>Primitive Christians;</hi> so, were the Ear of <hi>Caesar</hi> open to them, they want not of their worn Body, a <hi>Justin,</hi> a <hi>Tertullian,</hi> or an <hi>Athenagoras,</hi> to Apolo<g ref="char:EOLhyphen"/>gize and Intercede for them. I am Sir,</p>
+            <closer>
+               <signed>
+                  <hi>Your assured Friend,</hi> &amp;c.</signed>
+               <dateline>
+                  <date>
+                     <hi>Jan.</hi> 23d. 168/9 9/0.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London</hi> Printed, and are to be Sold by <hi>Randal Taylor</hi> near <hi>Stationers-Hall,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
